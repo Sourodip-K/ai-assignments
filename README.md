@@ -45,14 +45,6 @@ Output for IDS
 
 
 
-Output for Hill Climbing
-
-![image](https://user-images.githubusercontent.com/53702703/151350403-e1ef251e-f05c-4deb-bdef-8f9953379e6b.png)
-
-
-
-
-
 
 Output for Genetic Algorithm
 
