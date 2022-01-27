@@ -29,6 +29,18 @@ Output for IDFS
 
 
 
+Output for DLS
+
+![image](https://user-images.githubusercontent.com/53702703/151363808-0514843e-66e4-4efe-b0ca-80efe5e07238.png)
+
+
+
+
+
+
+Output for IDS
+
+![image](https://user-images.githubusercontent.com/53702703/151363607-745f9868-2694-443a-b908-fa4b69b22143.png)
 
 
 
