@@ -35,9 +35,14 @@ Output for IDFS
 
 Output for Hill Climbing
 
+![image](https://user-images.githubusercontent.com/53702703/151350403-e1ef251e-f05c-4deb-bdef-8f9953379e6b.png)
+
 
 
 
 
 
 Output for Genetic Algorithm
+
+![image](https://user-images.githubusercontent.com/53702703/151350531-d2e849c7-a538-4ee0-a9a4-12cf728e43b7.png)
+
